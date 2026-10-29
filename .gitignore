@@ -1,0 +1,5 @@
+# Ignore real scan results - keep repo clean
+hosts.txt
+live_hosts.txt
+*.log
+__pycache__/
